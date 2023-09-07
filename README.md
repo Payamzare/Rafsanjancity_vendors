@@ -7,6 +7,8 @@
 
 **Data** - https://www.foodcenter.ir/rafsanjan
 
+**Data Scraping (Listly) 
+
 **Data Cleaning & Analysis** - MySQL(DataGrip) 
 
 **Data Visualization** - PowerBI
